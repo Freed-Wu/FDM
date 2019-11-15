@@ -1,3 +1,6 @@
+FDM
+==========
+
 FDM(Finite Difference Method) 有限差分法 课程代码
 
 ```
