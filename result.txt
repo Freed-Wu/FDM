@@ -1,0 +1,16 @@
+please input the number of metal trough which be divided, default is 4:
+
+     4
+
+please input the number of minimal computing error, default is 0.000100:
+
+   1.0000e-04
+
+Result is:
+         0  100.0000  100.0000  100.0000         0
+         0   42.8566   52.6783   42.8570         0
+         0   18.7496   24.9998   18.7499         0
+         0    7.1427    9.8214    7.1428         0
+         0         0         0         0         0
+
+Running time is 3.423395 second.
