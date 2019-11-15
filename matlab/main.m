@@ -1,7 +1,7 @@
 tic;
 clc;
 clear;
-close;
+close all;
 
 %% in
 num_default = 4;
@@ -24,5 +24,5 @@ out = FDM(num, err_min);
 %% out
 fprintf( 'Result is:\n' )
 disp(out);
-fprintf( 'Running time is %f second.\n', toc )
+toc;
 
